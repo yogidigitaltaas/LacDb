@@ -1,0 +1,16 @@
+{
+  "providers": [
+    { "id": 1, "firstName": "Post 1", "lastName":"Doe", "licenseNo" : "345287",  "facilities": [
+         { "id": 1, "city": "Dallas", "state": "Texas", "zipcode" : "40987" },
+         { "id": 1, "city": "Dallas1", "state": "Texas1", "zipcode" : "40987"},
+         { "id": 1, "city": "Dallas2", "state": "Texas2", "zipcode" : "40987"}
+         ]},
+         
+       {"id": 1, "firstName": "Post 1", "lastName":"Doe", "licenseNo" : "345287",  "facilities": [
+         { "id": 1, "city": "Dallas", "state": "Texas", "zipcode" : "40987" },
+         { "id": 1, "city": "Dallas1", "state": "Texas1", "zipcode" : "40987"},
+         { "id": 1, "city": "Dallas2", "state": "Texas2", "zipcode" : "40987"}
+         ]}
+  ]
+}
+  
