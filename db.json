@@ -11,6 +11,13 @@
          { "Id": 2, "City": "Dallas1", "Street": "Street 1", "Zipcode" : "46738"},
          { "Id": 4, "City": "Dallas3", "Street": "Street 3", "Zipcode" : "76738"}
          ]}
-  ]
+  ],
+  "facilities" :  [
+         { "Id": 1, "City": "Dallas", "Street": "Street Unknown", "Zipcode" : "40987" },
+         { "Id": 2, "City": "Dallas1", "Street": "Street 1", "Zipcode" : "46738"},
+         { "Id": 3, "City": "Dallas2", "Street": "Street 2", "Zipcode" : "59098"},
+         { "Id": 4, "City": "Dallas3", "Street": "Street 3", "Zipcode" : "76738"},
+         { "Id": 5, "City": "Dallas4", "Street": "Street 4", "Zipcode" : "76738"}
+         ]
 }
   
