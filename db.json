@@ -6,7 +6,7 @@
          { "id": 3, "city": "Dallas2", "state": "Texas2", "zipcode" : "59098"}
          ]},
          
-       {"id": 1, "firstName": "David", "lastName":"Cage", "licenseNo" : "857847",  "facilities": [
+       {"id": 2, "firstName": "David", "lastName":"Cage", "licenseNo" : "857847",  "facilities": [
          { "id": 1, "city": "Dallas", "state": "Texas", "zipcode" : "40987" },
          { "id": 2, "city": "Dallas1", "state": "Texas1", "zipcode" : "46738"},
          { "id": 4, "city": "Dallas3", "state": "Texas2", "zipcode" : "76738"}
