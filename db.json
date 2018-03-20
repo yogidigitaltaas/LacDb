@@ -1,12 +1,12 @@
 {
   "providers": [
-    { "Id": 1, "FirstName": "John", "LastName":"Doe", "LicenseNo" : "345287",  "Facilities": [
+    { "Id": 1, "FirstName": "John", "LastName":"Doe", "LicenseNumber" : "345287",  "Facilities": [
          { "Id": 1, "City": "Dallas", "Street": "Street Unknown", "Zipcode" : "40987" },
          { "Id": 2, "City": "Dallas1", "Street": "Street 1", "Zipcode" : "46738"},
          { "Id": 3, "City": "Dallas2", "Street": "Street 2", "Zipcode" : "59098"}
          ]},
          
-       {"Id": 2, "FirstName": "David", "LastName":"Cage", "LicenseNo" : "857847",  "Facilities": [
+       {"Id": 2, "FirstName": "David", "LastName":"Cage", "LicenseNumber" : "857847",  "Facilities": [
          { "Id": 1, "City": "Dallas", "Street": "Street Unknown", "Zipcode" : "40987" },
          { "Id": 2, "City": "Dallas1", "Street": "Street 1", "Zipcode" : "46738"},
          { "Id": 4, "City": "Dallas3", "Street": "Street 3", "Zipcode" : "76738"}
