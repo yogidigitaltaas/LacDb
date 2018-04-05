@@ -14,7 +14,8 @@
                 "LAST_NAME": "COLLINS",
                 "CITY": "LOS ANGELES",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G67530"
+                "LICENSE_NO": "G67530",
+                "STATE":"CA"
             }
             
         ]
@@ -33,7 +34,8 @@
                 "LAST_NAME": "LINDBERG",
                 "CITY": "COVINA",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560"
+                "LICENSE_NO": "G69560",
+                "STATE":"CA"
             },
             {
                 "STREET1": "1115 S SUNSET AVE",
@@ -43,7 +45,8 @@
                 "LAST_NAME": "LINDBERG",
                 "CITY": "WEST COVINA,",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560"
+                "LICENSE_NO": "G69560",
+                "STATE":"CA"
             },
             {
                 "STREET1": "1115 S SUNSET AVE",
@@ -53,7 +56,8 @@
                 "LAST_NAME": "LINDBERG",
                 "CITY": "WEST COVINA,",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560"
+                "LICENSE_NO": "G69560",
+                "STATE":"CA"
             },
             {
                 "STREET1": "1115 S SUNSET AVE",
@@ -63,7 +67,8 @@
                 "LAST_NAME": "LINDBERG",
                 "CITY": "WEST COVINA,",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560"
+                "LICENSE_NO": "G69560",
+                "STATE":"CA"
             }
             
         ]
@@ -82,7 +87,8 @@
                 "LAST_NAME": "LIN",
                 "CITY": "PANORAMA CITY",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214"
+                "LICENSE_NO": "G70214",
+                "STATE":"CA"
             },
             {
                 "STREET1": "1300 N VERMONT AVE",
@@ -92,7 +98,8 @@
                 "LAST_NAME": "LIN",
                 "CITY": "LOS FELIZ",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214"
+                "LICENSE_NO": "G70214",
+                "STATE":"CA"
             },
             {
                 "STREET1": "44105 15TH ST W STE 100",
@@ -102,7 +109,8 @@
                 "LAST_NAME": "LIN",
                 "CITY": "LANCASTER",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214"
+                "LICENSE_NO": "G70214",
+                "STATE":"CA"
             },
             {
                 "STREET1": "15107 VANOWEN ST",
@@ -112,7 +120,8 @@
                 "LAST_NAME": "LIN",
                 "CITY": "VAN NUYS,",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214"
+                "LICENSE_NO": "G70214",
+                "STATE":"CA"
             }
             
         ]
@@ -131,7 +140,8 @@
                 "LAST_NAME": "MCCLINTICK",
                 "CITY": "THOUSAND OAKS",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "A75181"
+                "LICENSE_NO": "A75181",
+                "STATE":"CA"
             }
             
         ]
@@ -150,7 +160,8 @@
                 "LAST_NAME": "LIN",
                 "CITY": "LOS ANGELES",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "A39314"
+                "LICENSE_NO": "A39314",
+                "STATE":"CA"
             }
             
         ]
